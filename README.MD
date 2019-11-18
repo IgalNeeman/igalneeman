@@ -1,2 +1,1 @@
-## What is a Browser Application?
-Reports summarize cyber course at Ariel University
+## Reports summarize cyber course at Ariel University
